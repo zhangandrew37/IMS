@@ -1,0 +1,94 @@
+﻿<Properties StartupConfiguration="{26DDB58F-0306-4DA3-A822-255E06993D87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IMS.WebApp/wwwroot/css/site.css">
+    <Files>
+      <File FileName="IMS.WebApp/App.razor" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Program.cs" Line="63" Column="1" />
+      <File FileName="IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.GlobalUsings.g.cs" />
+      <File FileName="IMS.WebApp/Pages/Activities/PurchaseInventory.razor" Line="77" Column="1" />
+      <File FileName="IMS.WebApp/ViewModels/ProduceViewModel.cs" />
+      <File FileName="IMS.WebApp/ViewModels/PurchaseViewModel.cs" Line="19" Column="52" />
+      <File FileName="IMS.WebApp/Data/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Data/WeatherForecastService.cs" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Areas/Identity/Pages/Account/LogOut.cshtml" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Areas/Identity/Pages/Shared/_LoginPartial.cshtml" Line="13" Column="74" />
+      <File FileName="IMS.WebApp/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Shared/LoginDisplay.razor" Line="26" Column="21" />
+      <File FileName="IMS.WebApp/Shared/MainLayout.razor" Line="76" Column="29" />
+      <File FileName="IMS.WebApp/Areas/Identity/RevalidatingIdentityAuthenticationStateProvider.cs" Line="31" Column="13" />
+      <File FileName="IMS.WebApp/appsettings.json" Line="6" Column="6" />
+      <File FileName="IMS.WebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="35" Column="21" />
+      <File FileName="IMS.WebApp/Pages/Activities/SellProduct.razor" Line="52" Column="9" />
+      <File FileName="IMS.WebApp/Pages/Activities/ProduceProduct.razor" Line="58" Column="13" />
+      <File FileName="IMS.WebApp/Pages/FetchData.razor" Line="33" Column="35" />
+      <File FileName="IMS.WebApp/wwwroot/css/bootstrap/bootstrap.min.css.map" Line="1" Column="325055" />
+      <File FileName="IMS.WebApp/Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="103" Column="56" />
+      <File FileName="IMS.WebApp/Pages/Index.razor" Line="11" Column="7" />
+      <File FileName="IMS.WebApp/appsettings.Development.json" Line="8" Column="32" />
+      <File FileName="IMS.WebApp/Pages/Products/AddProduct.razor" Line="62" Column="13" />
+      <File FileName="IMS.WebApp/Pages/Counter.razor" Line="23" Column="5" />
+      <File FileName="IMS.Plugins.EFCore/IMSContext.cs" Line="25" Column="1" />
+      <File FileName="IMS.Plugins.EFCore/InventoryRepository.cs" Line="26" Column="13" />
+      <File FileName="IMS.CoreBusiness/Product.cs" Line="36" Column="13" />
+      <File FileName="IMS.WebApp/wwwroot/css/open-iconic/README.md" Line="114" Column="45" />
+      <File FileName="IMS.WebApp/wwwroot/css/bootstrap/bootstrap.min.css" Line="7" Column="46" />
+      <File FileName="IMS.WebApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" Line="1" Column="17" />
+      <File FileName="IMS.WebApp/wwwroot/css/site.css" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IMS" expanded="True">
+            <Node name="IMS.CoreBusiness" expanded="True" />
+            <Node name="IMS.Plugins.EFCore" expanded="True" />
+            <Node name="IMS.WebApp" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controls" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="00000000000000_CreateIdentitySchema.cs" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Activities" expanded="True" />
+                <Node name="Inventories" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Reports" expanded="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="bootstrap.min.css" expanded="True" />
+                  </Node>
+                  <Node name="open-iconic" expanded="True">
+                    <Node name="font" expanded="True">
+                      <Node name="css" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="site.css" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IMS.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
