@@ -1,2 +1,2 @@
-# IMS
+# StoreBase
 Inventory Management System
